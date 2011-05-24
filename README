@@ -1,0 +1,4 @@
+The code we use to track ping pong games.
+
+This is far from plug and play, just posting the views, models, urls, admin, 
+and const we use
